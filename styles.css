@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgb(10, 241, 21);
+}
+.heading1
+{
+    color: rgb(14, 10, 230);
+}
+
+.heading2
+{
+    color:red ;
+}
+
+.firstulobj,
+.secondulobj,
+.thirdulobj
+{
+    font-size: x-large;
+}
